@@ -4,7 +4,7 @@ Weather dashboard used to provide daily and forecast and current weather conditi
 # Description
 Weather Dashboard currently represents daily forecast including, temperature, humidity, wind speed and UV index. the dashbord does not show the 5 day forecast, but this will be remdiated. 
 
-![Alt text](<Screenshot 2023-07-27 211005-1.png>)
+![Alt text](<assets/Screenshot 2023-07-27 211005-1.png>)
 
 # Installation
 N/A
