@@ -1,0 +1,41 @@
+header {
+    background-color: rgb(66, 72, 88);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.searchCityHeader {
+    margin-top: 20px;
+    color: black;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:  rgb(111, 119, 139);
+}
+
+.dateHeader {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.hide {
+    display: none;
+}
+
+.current-weather {
+    padding: 15px;
+    background-color: white;
+}
+
+.searchBtn {
+    background-color: white;
+    
+}
+
+.btn {
+    background-color: white;
+}
